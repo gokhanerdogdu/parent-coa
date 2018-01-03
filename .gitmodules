@@ -1,0 +1,4 @@
+[submodule "Muhamed-Git/Odoo"]
+	path = Muhamed-Git/Odoo
+	url = git@github.com:Muhamed-Git/Odoo.git
+	branch = 10.0
